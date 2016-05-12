@@ -1,0 +1,13 @@
+/**
+   Author: Ngo Benoit
+**/
+
+interface SessionInterface {
+
+    public function get();
+
+    public function set();
+
+    public function has();
+
+}
