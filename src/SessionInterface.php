@@ -7,10 +7,10 @@ namespace TheCodingMachine\SessionInterface;
 
 interface SessionInterface {
 
-    public function get();
+    public function get($key);
 
-    public function set();
+    public function set($key, $data);
 
-    public function has();
+    public function has($key);
 
 }
