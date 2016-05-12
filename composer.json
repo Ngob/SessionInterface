@@ -4,7 +4,7 @@
     "keywords": ["mouf", "session", "sessioninterface", "php", "php session"],
     "homepage": "https://github.com/Ngob/sessioninterface",
     "type": "library",
-    "license": "MIT",
+    "license": "MIT"
     "authors": [
         {
             "name": "Benoit Ngo",
